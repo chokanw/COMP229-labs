@@ -1,11 +1,17 @@
 {
-  "name": "comp229-week2",
+  "name": "comp229-week3",
   "version": "0.0.1",
   "description": "Demo project for COMP229 at Centennial College",
   "main": "server.js",
   "author": "Ken Ngai",
   "license": "MIT",
   "dependencies": {
+    "jquery": "^3.7.1",
     "mime-types": "^2.1.35"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.30",
+    "@types/mime-types": "^2.1.4",
+    "@types/node": "^20.14.2"
   }
 }
